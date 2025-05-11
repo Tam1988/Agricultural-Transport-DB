@@ -26,7 +26,7 @@
   This will create the database and all required tables automatically.
   
  ##Entity-Relationship Diagram (ERD)
-  Here’s the ERD representation of the database structure:
+  ###Here’s the ERD representation of the database structure:
  ![Agricultural transport DB ERD](https://github.com/user-attachments/assets/7d0d22c0-ae09-45dc-ad22-fc305351d66b)
 
  
