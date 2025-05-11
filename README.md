@@ -27,6 +27,7 @@
   
  ##Entity-Relationship Diagram (ERD)
   Here’s the ERD representation of the database structure:
+  ![ERD Diagram](Agricultural transport DB ERD.png)
  
  ##Repository Contents
   agricultural-transport-db/
